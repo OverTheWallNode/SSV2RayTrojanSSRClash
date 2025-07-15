@@ -84,7 +84,7 @@
 - **节点地区**：包括香港、台湾、日本、狮城、美国、韩国、泰国、印度、印尼、越南、马来、迪拜、澳洲、荷兰、英国、德国、法国、瑞典、智利、南非、丹麦、巴西、挪威、西班牙、柬埔寨、俄罗斯、尼泊尔、加拿大、土耳其、哥伦比亚、尼日利亚、阿布扎比等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT，多设备同时使用无限制。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
-- [👉 官网地址](https://bit.ly/4lXF8ac)
+- [👉 官网地址](https://douyun.sbs/#/register?code=BwJyTE2t)
 
 ### 4）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
 - **核心优势**：高端深港 IEPL 专线，采用 SS 协议，4K 清晰不卡、8K 流畅，确保稳定的流媒体解锁体验.
