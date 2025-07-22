@@ -129,14 +129,21 @@
   - 半年付，年付 85折（优惠码：`wallkiller85`）。
 - [👉 官网地址](https://ffkjwl.com/#/register?code=9DwbVMfh)
 
-### 8）[FScloud](https://dash.fscloud.homes/#/register?code=mAMmbdAY)
+### 8）[跨越网络](https://kuayue2.com/register?code=SJWPypmB)
+- **核心优势**：全大陆中转，深港，京德专线，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
+- **节点地区**：香港，新加坡，日本，台湾，美国，越南，泰国，马来西亚，印度尼西亚，柬埔寨，英国，法国，德国，西班牙，意大利等。
+- **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
+- **超值套餐**：有“纯流量”套餐，月付低至仅需 10 元。满足各类用户需求。
+- [👉 官网地址](https://bit.ly/4kSwAAe)
+
+### 9）[FScloud](https://dash.fscloud.homes/#/register?code=mAMmbdAY)
 - **核心优势**：传说中的“一元机场”，仅需 1 元即可享受 100G 流量套餐，性价比超高！
 - **节点地区**：香港，日本，台湾，美国，新加坡等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体。 解锁 ChatGPT。
 - **新用户福利**：注册即享 **3 天 100G 流量免费体验**，采用最新 hysteria2、reality 协议，提供更快、更稳定的连接体验，让你迅速上手、畅享全球网络！
 - [👉 官网地址](https://bit.ly/3C4c4fL)
 
-### 9）[魔戒](https://hkm.cdn-source.com/register?aff=rJp1uYUW)
+### 10）[魔戒](https://hkm.cdn-source.com/register?aff=rJp1uYUW)
 - **核心优势**：不限速、纯流量计费，无到期限制，多人共享无压力，真正做到无限制上网。
 - **节点地区**：香港，日本，台湾，美国，新加坡，加拿大，德国，英国，土耳其，澳大利亚，朝鲜，意大利，葡萄牙，俄罗斯，哈萨克斯坦，乌克兰，以色列，阿根廷，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
