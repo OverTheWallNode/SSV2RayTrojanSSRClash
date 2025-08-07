@@ -136,12 +136,12 @@
 - **超值套餐**：年付套餐最低仅 15.6 元/月，让高品质网络服务唾手可得！
 - [👉 官网地址](https://bit.ly/3ugbftg)
 
-### 9）[FScloud](https://dash.fscloud.homes/#/register?code=mAMmbdAY)
-- **核心优势**：传说中的“一元机场”，仅需 1 元即可享受 100G 流量套餐，性价比超高！
-- **节点地区**：香港，日本，台湾，美国，新加坡等。
-- **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体。 解锁 ChatGPT。
-- **新用户福利**：注册即享 **3 天 100G 流量免费体验**，采用最新 hysteria2、reality 协议，提供更快、更稳定的连接体验，让你迅速上手、畅享全球网络！
-- [👉 官网地址](https://bit.ly/3C4c4fL)
+### 9）[FScloud](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
+- **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
+- **节点地区**：香港，澳门，日本，台湾，新加坡，美国，韩国，英国，越南，印度尼西亚，马来西亚，缅甸，老挝，柬埔寨，泰国，菲律宾，印度，尼日利亚等。
+- **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
+- **超值套餐**：提供 不限时“纯流量”套餐，无月付、季付或年付限制，用多少算多少，让你尽享无限畅游！
+- [👉 官网地址](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 
 ### 10）[魔戒](https://hkm.cdn-source.com/register?aff=rJp1uYUW)
 - **核心优势**：不限速、纯流量计费，无到期限制，多人共享无压力，真正做到无限制上网。
