@@ -109,12 +109,12 @@
 - **超值套餐**：提供 不限时“纯流量”套餐，无月付、季付或年付限制，用多少算多少，让你尽享无限畅游！
 - [👉 官网地址](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 
-### 4）[跨越网络](https://kuayue2.com/register?code=EJBFlQ0E)
+### 4）[跨越网络](https://cdn.kuayue2.com/register?code=EJBFlQ0E)
 - **核心优势**：全大陆中转，深港，京德专线，三网入口，电信不限速，跨省不限速，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
 - **节点地区**：香港，新加坡，日本，台湾，美国，越南，泰国，马来西亚，印度尼西亚，柬埔寨，英国，法国，德国，西班牙，意大利等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：有“纯流量”套餐，月付低至仅需 10 元。满足各类用户需求。
-- [👉 官网地址](https://kuayue2.com/register?code=EJBFlQ0E)
+- [👉 官网地址](https://cdn.kuayue2.com/register?code=EJBFlQ0E)
 
 ### 5）[智连云](https://xinzhilian.xyz/register?code=sWdm0JKC)
 - **核心优势**：全大陆中转，深港，京德专线，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
@@ -126,7 +126,7 @@
   - 季付/半年付优惠 20%（优惠码：`1111`）。
   - 年付优惠 30%（优惠码：`2222`）。
   - 不限时套餐优惠 10%（优惠码：`3333`）。
-- [👉 官网地址](https://bit.ly/47oYLBG)
+- [👉 官网地址](https://xinzhilian.xyz/register?code=sWdm0JKC)
 
 ### 6）[淘气兔](https://taoqitu.me/index.html?register=OdyZEGNV)
 - **核心优势**：全大陆中转不限速大机场，覆盖等，轻松解锁全球主流影视内容！
