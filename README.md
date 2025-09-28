@@ -40,10 +40,6 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
-- **超值活动**：暑期优惠码活动信息
-  - 全场8折优惠优惠码：`summer08`
-  - 有效期：即日起—2025年8月31号
-  - 目前商店里年付直接8折优惠了，加上8折优惠码，即可享受折上折6.4折的优惠。
 - [👉 官网地址](https://bit.ly/439GVk1)
 
 ### 5）[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)
@@ -51,10 +47,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
-- **超值活动**：暑期优惠码活动信息
-  - 全场8折优惠优惠码：`sum80`
-  - 有效期：即日起—2025年8月31号
-  - 目前商店里年付直接8折优惠了，加上8折优惠码，即可享受折上折6.4折的优惠。
 - [👉 官网地址](https://bit.ly/3JCIZJn)
 
 ### 6）[NiceDuck](https://dash.niceduck.io/register?code=2o3T6rG1)
@@ -62,9 +54,6 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- **超值活动**：2025七夕节优惠活动
-  - 全场8折优惠优惠码：`qixi`
-  - 有效期：即日起—2025年09月14日
 - [👉 官网地址](https://bit.ly/4kwwhMf)
 
 ### 7）[M78星云](https://m78star.cloud/#/register?code=TfURQ1ug)
@@ -73,11 +62,6 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
-- **超值活动**：两周年庆典优惠码信息
-  - 季付85折优惠码：`season85`
-  - 半年付82折优惠码：`halfyear82`
-  - 年付8折优惠码：`year80`
-  - 有效期：即日起—2025/09/07
 - [👉 官网地址](https://bit.ly/3TJ0RYA)
 
 ---
@@ -100,6 +84,11 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
+- **超值活动**：国庆特惠：
+  - 月付 / 季付 套餐八折：（优惠码：`TSmeow9`）。
+  - 月付 / 季付 套餐六折 50份（优惠码：`TSmeow6`）。
+  - 一次性套餐 1010 GB 限购8天
+  - 有效期：即日起至10月8日
 - [👉 官网地址](https://bit.ly/4b5uYzO)
 
 ### 3）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
