@@ -20,7 +20,7 @@
 - **超值活动**：国庆特惠：
   - 9折优惠码：（优惠码：`Discount`）。
   - 时间：2025-10-01 00:00:00 ~ 2025-10-10 00:00:00
-- [👉 官网地址](https://bit.ly/3ZcXN8d)
+- [👉 官网地址](https://296788.dedicated-afflink.com/#/auth/7wXZwXdx)
 
 ### 2）[FatcatCloud](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 - **核心优势**：全中转大带宽， IEPL专线，不限速高端大机场，秒开4K，支持8K！
@@ -30,7 +30,7 @@
 - **超值活动**：国庆特惠：
   - 8折优惠码：（优惠码：`fat80`）。
   - 活动周期：即日起至2025年10月20号23点59分
-- [👉 官网地址](https://bit.ly/4nUdble)
+- [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
 ### 3）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
 - **核心优势**：整合阿里云、腾讯云、优刻得 UDPN 等多个 BGP 入口，采用 BGP+IPLC 专线传输，确保高端大机场的稳定性和高速率.
@@ -41,9 +41,9 @@
 - **超值活动**：国庆特惠：
   - 全场85折优惠码：（优惠码：`15%OFF`）。
   - 活动时间：即日起至2025/10/08 23:59
-- [👉 官网地址](https://bit.ly/476L1M5)
+- [👉 官网地址](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
 
-### 4）[FastLink](https://flafflnk.flaff9.cc/auth/register?code=je8N)
+### 4）[FastLink](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 - **核心优势**：Anycast 全球加速技术，BGP动态专线，节点速率高达 2Gbps，无论 4K 秒开还是 8K 超清视频，都能轻松应对！
 - **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，印度，美国，加拿大，英国，德国，法国，俄罗斯，阿根廷，巴西，土耳其，澳大利亚等。
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
@@ -52,9 +52,10 @@
 - **超值活动**：国庆特惠：
   - 全场8折优惠码：（优惠码：`fastlink80`）。
   - 商店里的年付已经有8折优惠，配合本次国庆优惠码后，最低可至64折
-- [👉 官网地址](https://bit.ly/439GVk1)
+  - 活动截止日期：即日起至2025年10月20号23点59分
+- [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
-### 5）[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)
+### 5）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 - **核心优势**：速度稳如闪电，高端全专线 IPLC，无倍率套路，打造原生节点大机场，带来极致网络体验！
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
@@ -63,7 +64,7 @@
   - 全场8折优惠码：（优惠码：`sc80`）。
   - 商店里的年付已经有8折优惠，配合本次国庆优惠码后，最低可至64折
   - 活动截止日期到2025年10月31号23点59分
-- [👉 官网地址](https://bit.ly/3JCIZJn)
+- [👉 官网地址](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 
 ### 6）[NiceDuck](https://dash.niceduck.io/register?code=2o3T6rG1)
 - **核心优势**：多入口隧道中转 SS 线路，国内直连加速，高 SLA 保障，让你在任何网络环境下都能畅享全球高速上网。
@@ -73,9 +74,9 @@
 - **超值活动**：周年庆,国庆特惠：
   - 全场7折优惠码：（优惠码：`niceduck777`）。
   - 有效期：2025年10月01日至2025年10月31日
-- [👉 官网地址](https://bit.ly/4kwwhMf)
+- [👉 官网地址](https://dash.niceduck.io/register?code=2o3T6rG1)
 
-### 7）[M78星云](https://m78star.cloud/#/register?code=TfURQ1ug)
+### 7）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
 - **核心优势**：G 口负载，IPLC 专线高端 SS，带来 4K 流畅、8K 不卡的极致体验。不限速、不限设备，随心畅享。
 - **节点地区**：香港，澳门，台湾，日本，美国，新加坡，韩国，马来西亚，泰国，越南，印度，菲律宾，阿根廷，土耳其，俄罗斯，乌克兰，印度尼西亚，德国，法国，英国，埃及，澳大利亚，巴西，迪拜，荷兰，丹麦，尼日利亚，南极等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
@@ -86,7 +87,7 @@
   - 半年付82折优惠码: （优惠码：`halfyear82`）。
   - 年付8折优惠码: （优惠码：`year80`）。
   - 有效期：即日起—2025/10/07
-- [👉 官网地址](https://bit.ly/3TJ0RYA)
+- [👉 官网地址](https://www.m78.at/#/register?code=TfURQ1ug)
 
 ---
 
@@ -94,16 +95,16 @@
 
 **中级机场区** 适合日常办公、影音娱乐与流媒体观影的广大用户。价格亲民且稳定性出色，即使在敏感时期也能保障基本上网体验，让你随时随地畅享网络自由！
 
-### 1）[猫熊网络加速器](https://mxwljsq.xyz/auth/register?code=LkNG)
+### 1）[猫熊网络加速器](https://sbnil.mxwlonline.top/v2/auth/sign-up?invite_code=LkNG)
 - **核心优势**：全中转大机场，拥有 100+ 节点 4K 视频无卡顿、8K 超清流畅。套餐可联系客服定制。
 - **节点地区**：
 包括香港，澳门，台湾，美国，日本，新加坡，韩国，印度、菲律宾，泰国，越南，马来西亚，印度尼西亚，德国，俄罗斯，英国，荷兰，加拿大，澳大利亚，乌克兰，法国，土耳其，巴基斯坦，沙特阿拉伯，埃及，墨西哥，尼日利亚，巴西，阿根廷，澳大利亚，新西兰等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。
 - **超值赠送**：赠送轻松享受 Emby、PornEmby 服务，共享 AppleID、Porhub 高级会员账户。
 - **新手福利**：注册即享 **3 天 5G 流量免费体验**！
-- [👉 官网地址](https://bit.ly/3GJyTmW)
+- [👉 官网地址](https://sbnil.mxwlonline.top/v2/auth/sign-up?invite_code=LkNG)
 
-### 2）[千速喵Tsmeow](https://tmsreta.top/zh/#/auth/signup;referral=IoX959wk)
+### 2）[千速喵Tsmeow](https://tmsreta.top/#/register?code=IoX959wk)
 - **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
@@ -113,7 +114,7 @@
   - 月付 / 季付 套餐六折 50份（优惠码：`TSmeow6`）。
   - 一次性套餐 1010 GB 限购8天
   - 有效期：即日起至10月8日
-- [👉 官网地址](https://bit.ly/4b5uYzO)
+- [👉 官网地址](https://tmsreta.top/#/register?code=IoX959wk)
 
 ### 3）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 - **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
@@ -149,7 +150,7 @@
 - **优惠活动**：
   - 月付 / 半年付 / 年付套餐 10%（优惠码：`guoqing@90`）。
   - 活动时间：即日起 - 2025.10.7 23:59
-- [👉 官网地址](https://bit.ly/4fivvyN)
+- [👉 官网地址](https://taoqitu.me/index.html?register=OdyZEGNV)
 
 ### 7）[饭饭云](https://ffkjwl.com/#/register?code=9DwbVMfh)
 - **核心优势**：全千兆高速中转+IPLC专线线路不限速大机场，满足各种需求，特殊时期稳定不怕墙，8K秒开！
@@ -169,14 +170,14 @@
 - **超值活动**：国庆&中秋特惠：
   - 8折优惠：（优惠码：`251001`）。
   - 全场 结束时间 2025/10/7 23:59
-- [👉 官网地址](https://bit.ly/3ugbftg)
+- [👉 官网地址](https://miaona.co/#/register?code=VeKwsak1)
 
-### 9）[魔戒](https://hkm.cdn-source.com/register?aff=rJp1uYUW)
+### 9）[魔戒](https://live.com/register?aff=rJp1uYUW)
 - **核心优势**：不限速、纯流量计费，无到期限制，多人共享无压力，真正做到无限制上网。
 - **节点地区**：香港，日本，台湾，美国，新加坡，加拿大，德国，英国，土耳其，澳大利亚，朝鲜，意大利，葡萄牙，俄罗斯，哈萨克斯坦，乌克兰，以色列，阿根廷，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超低价格**：价格低至 1 元，让你轻松尝鲜高品质网络体验！
-- [👉 官网地址](https://bit.ly/3AQH02i)
+- [👉 官网地址](https://live.com/register?aff=rJp1uYUW)
 
 ---
 
