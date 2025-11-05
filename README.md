@@ -90,12 +90,12 @@
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
 - [👉 官网地址](https://tmsreta.top/#/register?code=IoX959wk)
 
-### 3）[灵鹿加速](https://linlujs.top/#/register?code=4bf8pZoU)
+### 3）[灵鹿加速](https://linlujs.cloud/#/register?code=4bf8pZoU)
 - **核心优势**：全大陆中转，三网入口，电信不限速，跨省不限速，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
 - **节点地区**：香港，新加坡，日本，台湾，美国，德国等。
 - **流媒体解锁**：解锁 Netflix、Disney+、HBO、YouTube Premium 等视频流媒体
-- **超值套餐**：有“纯流量”套餐，月付低至仅需 3 元。满足各类用户需求。
-- [👉 官网地址](https://linlujs.top/#/register?code=4bf8pZoU)
+- **超值套餐**：月付低至仅需 3 元。满足各类用户需求。
+- [👉 官网地址](https://linlujs.cloud/#/register?code=4bf8pZoU)
 
 ### 4）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 - **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
