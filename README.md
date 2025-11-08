@@ -24,6 +24,10 @@
 - **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，菲律宾，越南，印度尼西亚，德国，英国，法国，土耳其，巴西，阿根廷等。
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯等主流流媒体。
 - **超值套餐**：节点全部1倍率。支持ChatGPT、Claude等AI tools
+- **超值活动**：双十一特惠：
+  - 全场8折优惠码：（优惠码：`fat111180`）。
+  - 商店里的年付已经有8折优惠，配合本次优惠码后，最低可至64折，力度诱人。
+  - 活动截止日期到2025年11月30号23点59分
 - [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
 ### 3）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
@@ -40,6 +44,10 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
+- **超值活动**：双十一特惠：
+  - 全场8折优惠码：（优惠码：`fast1180`）。
+  - 商店里的年付已经有8折优惠，配合本次优惠码后，最低可至64折，力度诱人。
+  - 活动截止日期到2025年11月30号23点59分
 - [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
 ### 5）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
@@ -101,12 +109,12 @@
 - **超值套餐**：月付低至仅需 3 元。满足各类用户需求。
 - [👉 官网地址](https://linlujs.cloud/#/register?code=4bf8pZoU)
 
-### 4）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
-- **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
-- **节点地区**：香港，澳门，日本，台湾，新加坡，美国，韩国，英国，越南，印度尼西亚，马来西亚，缅甸，老挝，柬埔寨，泰国，菲律宾，印度，尼日利亚等。
+### 4）[E-IX](https://cloud.e-ix.com/#/register?code=pDUYUh3F)
+- **核心优势**：全大陆BGP多线接入+IEPL专线跨境传输，满足各种需求，特殊时期稳定不怕墙，8K秒开！
+- **节点地区**：包括香港，澳门，台湾，日本，新加坡，美国，越南，印度尼西亚，南非，马来西亚，俄罗斯，德国，挪威，荷兰，韩国，保加利亚，菲律宾，阿根廷，匈牙利，罗马尼亚，泰国，意大利，英国，加拿大，瑞典，芬兰，西班牙，澳大利亚，新西兰，墨西哥，乌克兰，巴西，法国等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
-- **超值套餐**：提供 不限时“纯流量”套餐，无月付、季付或年付限制，用多少算多少，让你尽享无限畅游！
-- [👉 官网地址](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
+- **线路优势**：7×24小时稳定在线，99.9%服务可用性保证。企业级加密传输，隐私安全双重保障。
+- [👉 官网地址](https://cloud.e-ix.com/#/register?code=pDUYUh3F)
 
 ### 5）[智连云](https://xinzhilian.xyz/register?code=sWdm0JKC)
 - **核心优势**：全大陆中转，深港，京德专线，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
@@ -134,12 +142,12 @@
 - **专属福利**：新注册用户可享受88折。
 - [👉 官网地址](https://dash.justfancy.net/register?code=6kIGih1n)
 
-### 8）[E-IX](https://cloud.e-ix.com/#/register?code=pDUYUh3F)
-- **核心优势**：全大陆BGP多线接入+IEPL专线跨境传输，满足各种需求，特殊时期稳定不怕墙，8K秒开！
-- **节点地区**：包括香港，澳门，台湾，日本，新加坡，美国，越南，印度尼西亚，南非，马来西亚，俄罗斯，德国，挪威，荷兰，韩国，保加利亚，菲律宾，阿根廷，匈牙利，罗马尼亚，泰国，意大利，英国，加拿大，瑞典，芬兰，西班牙，澳大利亚，新西兰，墨西哥，乌克兰，巴西，法国等。
+### 8）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
+- **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
+- **节点地区**：香港，澳门，日本，台湾，新加坡，美国，韩国，英国，越南，印度尼西亚，马来西亚，缅甸，老挝，柬埔寨，泰国，菲律宾，印度，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
-- **线路优势**：7×24小时稳定在线，99.9%服务可用性保证。企业级加密传输，隐私安全双重保障。
-- [👉 官网地址](https://cloud.e-ix.com/#/register?code=pDUYUh3F)
+- **超值套餐**：提供 不限时“纯流量”套餐，无月付、季付或年付限制，用多少算多少，让你尽享无限畅游！
+- [👉 官网地址](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 
 ### 9）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
 - **核心优势**：高端深港 IEPL 专线，采用 SS 协议，4K 清晰不卡、8K 流畅，确保稳定的流媒体解锁体验.
