@@ -109,7 +109,7 @@
 - **核心优势**：全大陆中转，三网入口，电信不限速，跨省不限速，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
 - **节点地区**：香港，新加坡，日本，台湾，美国，德国等。
 - **流媒体解锁**：解锁 Netflix、Disney+、HBO、YouTube Premium 等视频流媒体
-- **超值套餐**：月付低至仅需 3 元。满足各类用户需求。
+- **超值套餐**：提供 **不限时纯流量一次性套餐**，用多少扣多少直至用完，如月付低至仅需 3 元。满足各类用户需求。
 - [👉 官网地址](https://linlujs.cloud/#/register?code=4bf8pZoU)
 
 ### 4）[E-IX](https://cloud.e-ix.com/#/register?code=pDUYUh3F)
@@ -117,6 +117,7 @@
 - **节点地区**：包括香港，澳门，台湾，日本，新加坡，美国，越南，印度尼西亚，南非，马来西亚，俄罗斯，德国，挪威，荷兰，韩国，保加利亚，菲律宾，阿根廷，匈牙利，罗马尼亚，泰国，意大利，英国，加拿大，瑞典，芬兰，西班牙，澳大利亚，新西兰，墨西哥，乌克兰，巴西，法国等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **线路优势**：7×24小时稳定在线，99.9%服务可用性保证。企业级加密传输，隐私安全双重保障。
+- **超值套餐**：提供 **年付纯流量一次性套餐**，一次性下发1024G流量包，有效期一年。
 - [👉 官网地址](https://cloud.e-ix.com/#/register?code=pDUYUh3F)
 
 ### 5）[智连云](https://xinzhilian.xyz/register?code=sWdm0JKC)
@@ -142,7 +143,7 @@
 - **核心优势**：全千兆高速中转+IPLC专线线路不限速大机场，满足各种需求，特殊时期稳定不怕墙，8K秒开！
 - **节点地区**：包括香港，台湾，日本，新加坡，美国，韩国，英国，印度，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
-- **专属福利**：新注册用户可享受88折。
+- **专属福利**：新注册用户可享受88折。(优惠码：`Newoff`)
 - [👉 官网地址](https://dash.justfancy.net/register?code=6kIGih1n)
 
 ### 8）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
