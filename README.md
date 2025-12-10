@@ -24,10 +24,6 @@
 - **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，菲律宾，越南，印度尼西亚，德国，英国，法国，土耳其，巴西，阿根廷等。
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯等主流流媒体。
 - **超值套餐**：节点全部1倍率。支持ChatGPT、Claude等AI tools
-- **超值活动**：双十一特惠：
-  - 全场8折优惠码：（优惠码：`fat111180`）。
-  - 商店里的年付已经有8折优惠，配合本次优惠码后，最低可至64折，力度诱人。
-  - 活动截止日期到2025年11月30号23点59分
 - [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
 ### 3）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
@@ -44,10 +40,6 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
-- **超值活动**：双十一特惠：
-  - 全场8折优惠码：（优惠码：`fast1180`）。
-  - 商店里的年付已经有8折优惠，配合本次优惠码后，最低可至64折，力度诱人。
-  - 活动截止日期到2025年11月30号23点59分
 - [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
 ### 5）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
@@ -55,10 +47,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
-- **超值活动**：双十一特惠：
-  - 全场8折优惠码：（优惠码：`sc1111`）。
-  - 商店里的年付已经有8折优惠，配合本次优惠码后，最低可至64折，力度诱人。
-  - 活动截止日期到2025年11月30号23点59分
 - [👉 官网地址](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 
 ### 6）[NiceDuck](https://dash.niceduck.io/register?code=2o3T6rG1)
@@ -66,9 +54,9 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- **超值活动**：2025 双11优惠活动：
+- **超值活动**：2025 双12优惠活动：
   - 全场8折优惠码：（优惠码：`duck-8`）。
-  - 有效期：2025年11月07日至2025年11月23日
+  - 有效期：2025年12月05日至2025年12月15日
 - [👉 官网地址](https://dash.niceduck.io/register?code=2o3T6rG1)
 
 ### 7）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
@@ -158,9 +146,6 @@
 - **节点地区**：支持香港，台湾，美国，日本，新加坡，印度尼西亚，越南，菲律宾，韩国，泰国，印度，巴西，德国，英国，土耳其，法国，阿根廷，尼日利亚，澳大利亚等，让你的上网体验更加丰富多彩。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。
 - **超值套餐**：年付套餐最低仅 15.6 元/月，让高品质网络服务唾手可得！
-- **超值活动**：双十一活动特惠：
-  - 8折优惠：（优惠码：`251111`）。
-  - 全场 结束时间 2025/11/13 23:59  
 - [👉 官网地址](https://miaona.co/#/register?code=VeKwsak1)
 
 ### 10）[魔戒](https://mojie.xn--yrs494l.com/register?aff=rJp1uYUW)
