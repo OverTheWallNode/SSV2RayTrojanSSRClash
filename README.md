@@ -47,6 +47,9 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
+- **超值活动**：2025 双12大促, 年付套餐自带8折，加上12月大促活动8折之后相当于6.4折，力度诱人。
+  - 全场8折优惠码：（优惠码：`80sc`）。
+  - 有效期：2025年12月31号23点59分
 - [👉 官网地址](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 
 ### 6）[NiceDuck](https://dash.niceduck.io/register?code=2o3T6rG1)
