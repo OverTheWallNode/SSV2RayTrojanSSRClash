@@ -24,6 +24,10 @@
 - **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，菲律宾，越南，印度尼西亚，德国，英国，法国，土耳其，巴西，阿根廷等。
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯等主流流媒体。
 - **超值套餐**：节点全部1倍率。支持ChatGPT、Claude等AI tools
+- **超值活动**：双旦活动, 年付套餐自带8折，3年价格本身已经有6折了，结合本次年付8折优惠码，就可以最低48折。
+  - 月付/季度/半年 ：85折优惠（优惠码：`hello202685`）。
+  - 年付/年付以上：8折优惠（优惠码：`hello202680`）。
+  - 活动时间：即刻起至2026年1月20号23:59  
 - [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
 ### 3）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
@@ -32,6 +36,9 @@
 - **流媒体全解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体，让你畅享海量高清视频。，满足高端用户严苛需求。
 - **独有特色**：独家保障新疆地区，支持 Windows/Mac/iOS/Android/路由器，多设备同时使用.
 - **专属福利**：注册即享 **3 天免费体验**（“白嫖”福利）。
+- **超值活动**：欢庆圣诞+冬至。
+  - 85折优惠码：（优惠码：`15%OFF`）。
+  - 活动时间：即日起至2025/12/26 23:59
 - [👉 官网地址](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
 
 ### 4）[FastLink](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
@@ -40,6 +47,9 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
+- **超值活动**：圣诞 & 元旦限时活动,全场8折，年度最大折扣，现时促销,配合站内年付自带8折，享受折上折，底至6.4折。
+  - 8折专属优惠码：（优惠码：`fastlink2026`）。
+  - 活动时间：即日起 — 2026年1月20日 23:59
 - [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
 ### 5）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
@@ -57,9 +67,9 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- **超值活动**：2025 双12优惠活动：
+- **超值活动**：圣诞元旦双节优惠活动：
   - 全场8折优惠码：（优惠码：`duck-8`）。
-  - 有效期：2025年12月05日至2025年12月15日
+  - 有效期：2025年12月23日至2026年1月11日
 - [👉 官网地址](https://dash.niceduck.io/register?code=2o3T6rG1)
 
 ### 7）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
@@ -68,6 +78,11 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
+- **超值活动**：圣诞&元旦特别活动：
+  - 季付85折：（优惠码：`season85`）。
+  - 半年付82折：（优惠码：`halfyear82`）。
+  - 年付8折优惠码：（优惠码：`year80`）。
+  - 有效期：即日起—2026/01/07
 - [👉 官网地址](https://www.m78.at/#/register?code=TfURQ1ug)
 
 ---
@@ -113,7 +128,7 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：有“纯流量”套餐，年付低至仅需 35 元。满足各类用户需求。
 - **新用户福利**：注册即享 **免费白嫖体验**，零风险试用高品质服务！
-- **优惠活动**：
+- **超值活动**：
   - 季付/半年付优惠 20%（优惠码：`1111`）。
   - 年付优惠 30%（优惠码：`2222`）。
   - 不限时套餐优惠 10%（优惠码：`3333`）。
@@ -124,6 +139,9 @@
 - **节点地区**：包括香港，台湾，日本，新加坡，美国，马来西亚，俄罗斯，英国，西班牙，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **无限流量**：提供 **不限时“纯流量”套餐**，无月付、季付或年付限制，用多少算多少，月费低至 7.8 元，让你尽享无限畅游。
+- **超值活动**：圣诞特别活动：
+  - 月付 / 半年付 / 年付套餐 9 折：（优惠码：`taoqitu@@90`）。
+  - 活动时间： 即日起 – 2026.1.1 23:59
 - [👉 官网地址](https://taoqitu.me/index.html?register=OdyZEGNV)
 
 ### 7）[Fancy network](https://dash.justfancy.net/register?code=6kIGih1n)
