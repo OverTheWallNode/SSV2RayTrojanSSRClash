@@ -36,9 +36,9 @@
 - **流媒体全解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体，让你畅享海量高清视频。，满足高端用户严苛需求。
 - **独有特色**：独家保障新疆地区，支持 Windows/Mac/iOS/Android/路由器，多设备同时使用.
 - **专属福利**：注册即享 **3 天免费体验**（“白嫖”福利）。
-- **超值活动**：欢庆圣诞+冬至。
+- **超值活动**：欢庆元旦。
   - 85折优惠码：（优惠码：`15%OFF`）。
-  - 活动时间：即日起至2025/12/26 23:59
+  - 活动时间：即日起至2026/01/05 23:59
 - [👉 官网地址](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
 
 ### 4）[FastLink](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
@@ -105,6 +105,9 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
+- **超值活动**：庆元旦贺新年：
+  - 85折：（优惠码：`Pupu1`）。
+  - 有效期：即日起—2026/01/07
 - [👉 官网地址](https://tmsreta.top/#/register?code=IoX959wk)
 
 ### 3）[E-IX](https://cloud.e-ix.com/#/register?code=pDUYUh3F)
@@ -120,6 +123,9 @@
 - **节点地区**：香港，台湾，美国，日本，新加坡，韩国，越南，马来西亚，印度，德国，俄罗斯，英国，加拿大，乌克兰等
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：有“纯流量”套餐，总量 1024G，大满足，月付低至13.8。符合各类用户需求。
+- **超值活动**：庆元旦贺新年：
+  - 85折：（优惠码：`Star0101`）。
+  - 有效期：即日起—2026/01/07
 - [👉 官网地址](https://plinkc.sbs/#/register?code=BosKf4eJ)
 
 ### 5）[智连云](https://xinzhilian.xyz/register?code=sWdm0JKC)
