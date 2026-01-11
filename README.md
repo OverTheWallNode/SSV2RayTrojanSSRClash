@@ -62,7 +62,7 @@
   - 有效期：2025年12月31号23点59分
 - [👉 官网地址](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 
-### 6）[NiceDuck](https://dash.niceduck.io/register?code=2o3T6rG1)
+### 6）[NiceDuck](https://vuser.niceduck.io/register?code=2o3T6rG1)
 - **核心优势**：多入口隧道中转 SS 线路，国内直连加速，高 SLA 保障，让你在任何网络环境下都能畅享全球高速上网。
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
@@ -70,7 +70,7 @@
 - **超值活动**：圣诞元旦双节优惠活动：
   - 全场8折优惠码：（优惠码：`duck-8`）。
   - 有效期：2025年12月23日至2026年1月11日
-- [👉 官网地址](https://dash.niceduck.io/register?code=2o3T6rG1)
+- [👉 官网地址](https://vuser.niceduck.io/register?code=2o3T6rG1)
 
 ### 7）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
 - **核心优势**：G 口负载，IPLC 专线高端 SS，带来 4K 流畅、8K 不卡的极致体验。不限速、不限设备，随心畅享。
