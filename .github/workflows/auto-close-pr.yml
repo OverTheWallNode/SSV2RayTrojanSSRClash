@@ -12,18 +12,66 @@ jobs:
   close-pr:
     runs-on: ubuntu-latest
     steps:
-      - name: Close PR
+      - name: Hard close PR and clean up
         uses: actions/github-script@v7
         with:
           script: |
-            const pr = context.payload.pull_request;
             const owner = context.repo.owner;
             const repo = context.repo.repo;
+            const pr = context.payload.pull_request;
+            const pull_number = pr.number;
 
-            // 关闭 PR
-            await github.rest.pulls.update({
-              owner,
-              repo,
-              pull_number: pr.number,
-              state: "closed",
-            });
+            const fixedTitle = "已自动关闭";
+            const fixedBody = "已自动关闭";
+
+            try {
+              const issueComments = await github.paginate(
+                github.rest.issues.listComments,
+                { owner, repo, issue_number: pull_number, per_page: 100 }
+              );
+              for (const c of issueComments) {
+                await github.rest.issues.deleteComment({ owner, repo, comment_id: c.id });
+              }
+            } catch (e) {}
+
+            
+            try {
+              const reviewComments = await github.paginate(
+                github.rest.pulls.listReviewComments,
+                { owner, repo, pull_number, per_page: 100 }
+              );
+              for (const c of reviewComments) {
+                await github.rest.pulls.deleteReviewComment({ owner, repo, comment_id: c.id });
+              }
+            } catch (e) {}
+
+            
+            try {
+              await github.rest.pulls.update({
+                owner,
+                repo,
+                pull_number,
+                title: fixedTitle,
+                body: fixedBody
+              });
+            } catch (e) {}
+
+            
+            try {
+              await github.rest.pulls.update({
+                owner,
+                repo,
+                pull_number,
+                state: "closed"
+              });
+            } catch (e) {}
+
+           
+            try {
+              await github.rest.issues.lock({
+                owner,
+                repo,
+                issue_number: pull_number,
+                lock_reason: "resolved"
+              });
+            } catch (e) {}
