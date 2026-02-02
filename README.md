@@ -24,10 +24,6 @@
 - **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，菲律宾，越南，印度尼西亚，德国，英国，法国，土耳其，巴西，阿根廷等。
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯等主流流媒体。
 - **超值套餐**：节点全部1倍率。支持ChatGPT、Claude等AI tools
-- **超值活动**：双旦活动, 年付套餐自带8折，3年价格本身已经有6折了，结合本次年付8折优惠码，就可以最低48折。
-  - 月付/季度/半年 ：85折优惠（优惠码：`hello202685`）。
-  - 年付/年付以上：8折优惠（优惠码：`hello202680`）。
-  - 活动时间：即刻起至2026年1月20号23:59  
 - [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
 ### 3）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
@@ -44,9 +40,6 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
-- **超值活动**：圣诞 & 元旦限时活动,全场8折，年度最大折扣，现时促销,配合站内年付自带8折，享受折上折，底至6.4折。
-  - 8折专属优惠码：（优惠码：`fastlink2026`）。
-  - 活动时间：即日起 — 2026年1月20日 23:59
 - [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
 ### 5）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
@@ -54,9 +47,9 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
-- **超值活动**：2025 双12大促, 年付套餐自带8折，加上12月大促活动8折之后相当于6.4折，力度诱人。
-  - 全场8折优惠码：（优惠码：`80sc`）。
-  - 有效期：2025年12月31号23点59分
+- **超值活动**：2026 新年大促, 年付套餐自带8折，加上新年大促活动8折之后相当于6.4折，力度诱人。
+  - 全场8折优惠码：（优惠码：`202680sc`）。
+  - 有效期：2026年2月28号23点59分
 - [👉 官网地址](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 
 ### 6）[NiceDuck](https://vuser.niceduck.io/register?code=2o3T6rG1)
@@ -64,6 +57,9 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
+- **超值活动**：2026 春节优惠活动。
+  - 全场 75 折优惠码：（优惠码：`duck-75`）。
+  - 有效期：2026年02月01日至2026年02月28日
 - [👉 官网地址](https://vuser.niceduck.io/register?code=2o3T6rG1)
 
 ### 7）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
@@ -128,6 +124,8 @@
 - **节点地区**：香港，澳门，日本，台湾，新加坡，美国，韩国，英国，越南，印度尼西亚，马来西亚，缅甸，老挝，柬埔寨，泰国，菲律宾，印度，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 不限时“纯流量”套餐，无月付、季付或年付限制，用多少算多少，让你尽享无限畅游！
+- **超值活动**：
+  - 年付优惠 10%（优惠码：`9999`）。
 - [👉 官网地址](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 
 ### 7）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
