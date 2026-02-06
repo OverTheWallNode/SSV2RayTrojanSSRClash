@@ -85,12 +85,15 @@
 - **新手福利**：注册即享 **3 天 5G 流量免费体验**！
 - [👉 官网地址](https://sbnil.mxwlonline.top/v2/auth/sign-up?invite_code=LkNG)
 
-### 2）[千速喵Tsmeow](https://tmsreta.top/#/register?code=IoX959wk)
+### 2）[千速喵Tsmeow](https://training.lilt-pupu.cc/#/register?code=IoX959wk)
 - **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
-- [👉 官网地址](https://tmsreta.top/#/register?code=IoX959wk)
+- **超值活动**：2026 春节优惠活动。
+  - 全场 85 折优惠码：（优惠码：`pupu8`）。
+  - 有效期：2026/2/5 00:00 -- 2025/2/25 23:59
+- [👉 官网地址](https://training.lilt-pupu.cc/#/register?code=IoX959wk)
 
 ### 3）[E-IX](https://cloud.e-ix.com/#/register?code=pDUYUh3F)
 - **核心优势**：全大陆BGP多线接入+IEPL专线跨境传输，满足各种需求，特殊时期稳定不怕墙，8K秒开！
@@ -105,6 +108,9 @@
 - **节点地区**：香港，台湾，美国，日本，新加坡，韩国，越南，马来西亚，印度，德国，俄罗斯，英国，加拿大，乌克兰等
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：有“纯流量”套餐，总量 1024G，大满足，月付低至13.8。符合各类用户需求。
+- **超值活动**：2026 春节优惠活动。
+  - 全场 85 折优惠码：（优惠码：`Star085`）。
+  - 有效期：2026/2/5 00:00 -- 2025/2/25 23:59
 - [👉 官网地址](https://plinkc.sbs/#/register?code=BosKf4eJ)
 
 ### 5）[智连云](https://xinzhilian.xyz/register?code=sWdm0JKC)
