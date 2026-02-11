@@ -43,6 +43,9 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
+- **超值活动**：FASTLINK-2026春节活动，商店里所有套餐的1年付价格已经是8折了，搭配本次春节8折优惠码，即可以达到最低64折。
+  - 全场8折优惠码：（优惠码：`2026cny`）。
+  - 有效期：即日起至2026年3月20号0点。
 - [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
 ### 5）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
@@ -71,6 +74,11 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
+- **超值活动**：2026 春节优惠活动。
+  - 季付 85 折：（优惠码：`season85`）。
+  - 半年付 82 折：（优惠码：`halfyear82`）。
+  - 年付 8 折：（优惠码：`year80`）。
+  - 有效期：即日起—2026/02/28  
 - [👉 官网地址](https://www.m78.at/#/register?code=TfURQ1ug)
 
 ---
