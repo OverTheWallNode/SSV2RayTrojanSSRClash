@@ -24,6 +24,10 @@
 - **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，菲律宾，越南，印度尼西亚，德国，英国，法国，土耳其，巴西，阿根廷等。
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯等主流流媒体。
 - **超值套餐**：节点全部1倍率。支持ChatGPT、Claude等AI tools
+- **超值活动**：2026 新年优惠。
+  - 月付、季度、半年付 85 折优惠码：（优惠码：`newyear202685`）。
+  - 年付、2年付、3年付 8 折优惠码：（优惠码：`newyear202680`）。
+  - 有效期：即日起 到 2026年3月15号23：59分截止。
 - [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
 ### 3）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
