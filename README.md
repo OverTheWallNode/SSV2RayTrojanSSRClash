@@ -36,9 +36,6 @@
 - **流媒体全解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体，让你畅享海量高清视频。，满足高端用户严苛需求。
 - **独有特色**：独家保障新疆地区，支持 Windows/Mac/iOS/Android/路由器，多设备同时使用.
 - **专属福利**：注册即享 **3 天免费体验**（“白嫖”福利）。
-- **超值活动**：2026 新年优惠。
-  - 全场 85 折优惠码：（优惠码：`15%OFF`）。
-  - 有效期：即日起至2026/02/28 23:59
 - [👉 官网地址](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
 
 ### 4）[FastLink](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
@@ -67,9 +64,6 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- **超值活动**：2026 春节优惠活动。
-  - 全场 75 折优惠码：（优惠码：`duck-75`）。
-  - 有效期：2026年02月01日至2026年02月28日
 - [👉 官网地址](https://vuser.niceduck.io/register?code=2o3T6rG1)
 
 ### 7）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
@@ -78,11 +72,6 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
-- **超值活动**：2026 春节优惠活动。
-  - 季付 85 折：（优惠码：`season85`）。
-  - 半年付 82 折：（优惠码：`halfyear82`）。
-  - 年付 8 折：（优惠码：`year80`）。
-  - 有效期：即日起—2026/02/28  
 - [👉 官网地址](https://www.m78.at/#/register?code=TfURQ1ug)
 
 ---
@@ -104,9 +93,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
-- **超值活动**：2026 春节优惠活动。
-  - 全场 85 折优惠码：（优惠码：`pupu8`）。
-  - 有效期：2026/2/5 00:00 -- 2025/2/25 23:59
 - [👉 官网地址](https://training.lilt-pupu.cc/#/register?code=IoX959wk)
 
 ### 3）[Eueu](https://eueua.cc/#/register?code=4RIVYN3d)
@@ -129,9 +115,6 @@
 - **节点地区**：香港，台湾，美国，日本，新加坡，韩国，越南，马来西亚，印度，德国，俄罗斯，英国，加拿大，乌克兰等
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：有“纯流量”套餐，总量 1024G，大满足，月付低至13.8。符合各类用户需求。
-- **超值活动**：2026 春节优惠活动。
-  - 全场 85 折优惠码：（优惠码：`Star085`）。
-  - 有效期：2026/2/5 00:00 -- 2025/2/25 23:59
 - [👉 官网地址](https://plinkc.sbs/#/register?code=BosKf4eJ)
 
 ### 6）[智连云](https://xinzhilian.xyz/register?code=sWdm0JKC)
