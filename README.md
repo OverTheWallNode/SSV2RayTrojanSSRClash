@@ -93,6 +93,9 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
+- **超值活动**：
+  - 85折优惠（优惠码：`pupu8`）。
+  - 活动有效时间： 2026/3/15 00:00 -- 2025/4/1 23:59
 - [👉 官网地址](https://training.lilt-pupu.cc/#/register?code=IoX959wk)
 
 ### 3）[Eueu](https://eueua.cc/#/register?code=4RIVYN3d)
