@@ -24,10 +24,6 @@
 - **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，菲律宾，越南，印度尼西亚，德国，英国，法国，土耳其，巴西，阿根廷等。
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯等主流流媒体。
 - **超值套餐**：节点全部1倍率。支持ChatGPT、Claude等AI tools
-- **超值活动**：2026 新年优惠。
-  - 月付、季度、半年付 85 折优惠码：（优惠码：`newyear202685`）。
-  - 年付、2年付、3年付 8 折优惠码：（优惠码：`newyear202680`）。
-  - 有效期：即日起 到 2026年3月15号23：59分截止。
 - [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
 ### 3）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
@@ -44,9 +40,6 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
-- **超值活动**：FASTLINK-2026春节活动，商店里所有套餐的1年付价格已经是8折了，搭配本次春节8折优惠码，即可以达到最低64折。
-  - 全场8折优惠码：（优惠码：`2026cny`）。
-  - 有效期：即日起至2026年3月20号0点。
 - [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
 ### 5）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
@@ -54,9 +47,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
-- **超值活动**：2026 新年大促, 年付套餐自带8折，加上新年大促活动8折之后相当于6.4折，力度诱人。
-  - 全场8折优惠码：（优惠码：`202680sc`）。
-  - 有效期：2026年2月28号23点59分
 - [👉 官网地址](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 
 ### 6）[NiceDuck](https://vuser.niceduck.io/register?code=2o3T6rG1)
@@ -93,9 +83,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
-- **超值活动**：
-  - 85折优惠（优惠码：`pupu8`）。
-  - 活动有效时间： 2026/3/15 00:00 -- 2025/4/1 23:59
 - [👉 官网地址](https://training.lilt-pupu.cc/#/register?code=IoX959wk)
 
 ### 3）[Eueu](https://eueua.cc/#/register?code=4RIVYN3d)
