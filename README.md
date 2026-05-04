@@ -17,6 +17,9 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体，让你畅享海量高清视频。
 - **超值套餐**：提供年付"纯流量"套餐，适合轻度人群。
 - **特色抽奖**：提供"流量抽奖活动"搏一搏，单车变摩托，幸运大抽卡活动，10GB流量最高可抽200GB流量，无本万利，无限续杯。
+- **超值活动**：五一优惠活动
+  - 9折折优惠码 （优惠码：`20260501`）。
+  - 有效期：2026-05-01 00:00:00 ~ 2026-05-06 00:00:00
 - [👉 官网地址](https://296788.dedicated-afflink.com/#/auth/7wXZwXdx)
 
 ### 2）[FatcatCloud](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
@@ -54,6 +57,9 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
+- **超值活动**：劳动节优惠活动
+  - 全场8折 （优惠码：`duck-8`）。
+  - 有效期：2026年04月30日至2026年05月17日
 - [👉 官网地址](https://vuser.niceduck.io/register?code=2o3T6rG1)
 
 ### 7）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
@@ -153,7 +159,6 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超低价格**：价格低至 1 元，让你轻松尝鲜高品质网络体验！
 - [👉 官网地址](https://mojie.xn--yrs494l.com/register?aff=rJp1uYUW)
-
 
 ### 10）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
 - **核心优势**：传说中的一元机场，一元即可享受100G流量套餐， Netflix等主流流媒体解锁。使用最新的协议hysteria2，reality，更好的连接体验，更快的速度冲浪。
