@@ -182,6 +182,11 @@
 
 这些网站能帮助你解决临时验证、下载视频、寻找经典游戏等需求，让你的海外体验更加丰富便捷：
 
+- **[chatgpt会员充值](https://www.gptpro.xin/ai-recharge.html?refer=Y6use8uF&channelCode=gptpro)**  
+  提供 GPT Plus/Pro 账号充值与使用服务，正规安全、下单便捷、30 天质保承诺，适合学习办公与创作使用！
+  
+  👉 [https://www.gptpro.xin/ai-recharge.html?refer=Y6use8uF&channelCode=gptpro](https://www.gptpro.xin/ai-recharge.html?refer=Y6use8uF&channelCode=gptpro)
+
 - **[爱壹帆](https://www.iyf.tv/)**  
   海量高清视频平台，涵盖电视剧、电影、动漫、综艺、纪录片及新闻，实时更新，让海外观影变得轻松有趣！
   
