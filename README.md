@@ -56,9 +56,6 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- **超值活动**：劳动节优惠活动
-  - 全场8折 （优惠码：`duck-8`）。
-  - 有效期：2026年04月30日至2026年05月17日
 - [👉 官网地址](https://vuser.niceduck.io/register?code=2o3T6rG1)
 
 ### 7）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
@@ -101,16 +98,7 @@
   - 积分商城：兑换套餐时长，优惠券，流量包，账户余额等。
 - [👉 官网地址](https://v52x.cc/#/register?code=jMvM)
 
-### 4）[StarTrail星轨](https://plinkc.sbs/#/register?code=BosKf4eJ)
-- **核心优势**：全中转大机场，拥有 100+ 节点，4K 视频无卡顿、8K 超清流畅。套餐可联系客服定制。
-- **节点地区**：香港，台湾，美国，日本，新加坡，韩国，越南，马来西亚，印度，德国，俄罗斯，英国，加拿大，乌克兰等
-- **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
-- **超值套餐**：有“纯流量”套餐，总量 1024G，大满足，月付低至13.8。符合各类用户需求。
-- **超值活动**：
-  - 永久 95 折优惠券 （优惠码：`Star95`）。
-- [👉 官网地址](https://plinkc.sbs/#/register?code=BosKf4eJ)
-
-### 5）[猫熊网络加速器](https://sbnil.mxwlonline.top/v2/auth/sign-up?invite_code=LkNG)
+### 4）[猫熊网络加速器](https://sbnil.mxwlonline.top/v2/auth/sign-up?invite_code=LkNG)
 - **核心优势**：全中转大机场，拥有 100+ 节点 4K 视频无卡顿、8K 超清流畅。套餐可联系客服定制。
 - **节点地区**：包括香港，澳门，台湾，美国，日本，新加坡，韩国，印度、菲律宾，泰国，越南，马来西亚，印度尼西亚，德国，俄罗斯，英国，荷兰，加拿大，澳大利亚，乌克兰，法国，土耳其，巴基斯坦，沙特阿拉伯，埃及，墨西哥，尼日利亚，巴西，阿根廷，澳大利亚，新西兰等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。
@@ -118,14 +106,14 @@
 - **新手福利**：注册即享 **3 天 5G 流量免费体验**！
 - [👉 官网地址](https://sbnil.mxwlonline.top/v2/auth/sign-up?invite_code=LkNG)
 
-### 6）[Eueu](https://eueuwith.top/#/register?code=4RIVYN3d)
+### 5）[Eueu](https://eueuwith.top/#/register?code=4RIVYN3d)
 - **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！7x12H在线客服服务支持!
 - [👉 官网地址](https://eueuwith.top/#/register?code=4RIVYN3d)
 
-### 7）[跨越网络](https://kuayue2.com/register?code=Xj7iUU9C)
+### 6）[跨越网络](https://kuayue2.com/register?code=Xj7iUU9C)
 - **核心优势**：全大陆中转，深港，京德专线，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
 - **节点地区**：香港，澳门，韩国，新加坡，日本，台湾，美国，越南，菲律宾，泰国，马来西亚，印度尼西亚等。
 - **流媒体解锁**：解锁Netflix , Hulu , HBO , Disney+ , DAZN 等主流平台流媒体。 解锁 ChatGPT。
@@ -133,7 +121,7 @@
 - **新用户福利**：注册即享 **免费白嫖体验**，零风险试用高品质服务！
 - [👉 官网地址](https://kuayue2.com/register?code=Xj7iUU9C)
 
-### 8）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
+### 7）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 - **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
 - **节点地区**：香港，澳门，日本，台湾，新加坡，美国，韩国，英国，越南，印度尼西亚，马来西亚，缅甸，老挝，柬埔寨，泰国，菲律宾，印度，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
@@ -142,21 +130,21 @@
   - 年付优惠 10%（优惠码：`9999`）。
 - [👉 官网地址](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 
-### 9）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
+### 8）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
 - **核心优势**：高端深港 IEPL 专线，采用 SS 协议，4K 清晰不卡、8K 流畅，确保稳定的流媒体解锁体验.
 - **节点地区**：支持香港，台湾，美国，日本，新加坡，印度尼西亚，越南，菲律宾，韩国，泰国，印度，巴西，德国，英国，土耳其，法国，阿根廷，尼日利亚，澳大利亚等，让你的上网体验更加丰富多彩。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。
 - **超值套餐**：年付套餐最低仅 15.6 元/月，让高品质网络服务唾手可得！
 - [👉 官网地址](https://miaona.co/#/register?code=VeKwsak1)
 
-### 10）[魔戒](https://mojie.xn--yrs494l.com/register?aff=rJp1uYUW)
+### 9）[魔戒](https://mojie.xn--yrs494l.com/register?aff=rJp1uYUW)
 - **核心优势**：不限速、纯流量计费，无到期限制，多人共享无压力，真正做到无限制上网。
 - **节点地区**：香港，日本，台湾，美国，新加坡，加拿大，德国，英国，土耳其，澳大利亚，朝鲜，意大利，葡萄牙，俄罗斯，哈萨克斯坦，乌克兰，以色列，阿根廷，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超低价格**：价格低至 1 元，让你轻松尝鲜高品质网络体验！
 - [👉 官网地址](https://mojie.xn--yrs494l.com/register?aff=rJp1uYUW)
 
-### 11）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
+### 10）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
 - **核心优势**：传说中的一元机场，一元即可享受100G流量套餐， Netflix等主流流媒体解锁。使用最新的协议hysteria2，reality，更好的连接体验，更快的速度冲浪。
 - **节点地区**：包括：日本，新加坡，美国，德国，越南，泰国等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
