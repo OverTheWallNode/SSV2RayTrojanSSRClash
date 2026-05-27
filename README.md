@@ -152,12 +152,12 @@
 - **超值套餐**：有“纯流量”套餐。满足各类用户需求。
 - [👉 官网地址](https://zzzzz8.com/register?code=sWdm0JKC)
 
-### 11）[魔戒](https://mojie.xn--yrs494l.com/register?aff=rJp1uYUW)
+### 11）[魔戒](https://mojie.2gou.ren/register?aff=PvsYeQN4)
 - **核心优势**：不限速、纯流量计费，无到期限制，多人共享无压力，真正做到无限制上网。
 - **节点地区**：香港，日本，台湾，美国，新加坡，加拿大，德国，英国，土耳其，澳大利亚，朝鲜，意大利，葡萄牙，俄罗斯，哈萨克斯坦，乌克兰，以色列，阿根廷，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超低价格**：价格低至 1 元，让你轻松尝鲜高品质网络体验！
-- [👉 官网地址](https://mojie.xn--yrs494l.com/register?aff=rJp1uYUW)
+- [👉 官网地址](https://mojie.2gou.ren/register?aff=PvsYeQN4)
 
 ### 12）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
 - **核心优势**：传说中的一元机场，一元即可享受100G流量套餐， Netflix等主流流媒体解锁。使用最新的协议hysteria2，reality，更好的连接体验，更快的速度冲浪。
