@@ -72,14 +72,14 @@
 
 **中级机场区** 适合日常办公、影音娱乐与流媒体观影的广大用户。价格亲民且稳定性出色，即使在敏感时期也能保障基本上网体验，让你随时随地畅享网络自由！
 
-### 1）[liltpupu](https://liltpupuu.top/#/register?code=IoX959wk)
+### 1）[Liltpupu](https://liltpupuu.top/#/register?code=IoX959wk)
 - **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
 - [👉 官网地址](https://liltpupuu.top/#/register?code=IoX959wk)
 
-### 2）[snaillink](https://snaillink.net/register?code=EjntInlR)
+### 2）[Snaillink](https://snaillink.net/register?code=EjntInlR)
 - **核心优势**：IEPL 国际专线线路，不限速 SS 机场，面向高频使用与稳定需求场景，体验更稳、延迟更低。
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国，马来西亚，泰国，土耳其，印度尼西亚，英国，法国，澳大利亚，加拿大，波兰，瑞士，印度等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、、AmazonPrime等主流流媒体。 解锁 ChatGPT。
