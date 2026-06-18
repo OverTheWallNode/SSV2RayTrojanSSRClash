@@ -85,6 +85,9 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
+- **超值活动**：端午节 活动
+  - 全场 8 折（优惠码：`pupu8`）。
+  - 有效期：即日起—2026-06-22 11:34
 - [👉 官网地址](https://liltpupuu.top/#/register?code=IoX959wk)
 
 ### 2）[智连云](https://zzzzz8.com/register?code=sWdm0JKC)
@@ -108,7 +111,9 @@
 - **节点地区**：香港，台湾，美国，日本，新加坡，韩国，越南，马来西亚，印度，德国，俄罗斯，英国，加拿大，乌克兰等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值福利**：有“纯流量”套餐，总量 1024G，大满足，符合各类用户需求。
-- **超值活动**: 永久 95 折优惠券 （优惠码：`Star95`）。
+- **新手福利**: 永久 95 折优惠券 （优惠码：`Star95`）。
+- **超值活动**：端午节 活动
+  - 全场 85 折（优惠码：`Star085`）。
 - [👉 官网地址](https://plinkc.sbs/#/register?code=BosKf4eJ)
 
 ### 5）[猫熊网络加速器](https://sbnil.mxwlonline.top/v2/auth/sign-up?invite_code=LkNG)
@@ -119,15 +124,14 @@
 - **新手福利**：注册即享 **3 天 5G 流量免费体验**！
 - [👉 官网地址](https://sbnil.mxwlonline.top/v2/auth/sign-up?invite_code=LkNG)
 
-### 6）[52Cloud](https://v52x.cc/#/register?code=jMvM)
-- **核心优势**：G口峰值速率全大陆中转大机场，不限速持SS/VMESS协议，无设备限制。
-- **节点地区**：香港，台湾，日本，新加坡，美国，印度，土耳其，泰国，英国，越南，韩国，巴西，芬兰，马来西亚，俄罗斯等。
+### 6）[Eueu](https://eueuwith.top/#/register?code=4RIVYN3d)
+- **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
+- **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
-- **超值福利**：提供 **小火箭shadowrocket美区账号，Netflix，DisneyPlus，Hulu账号白嫖**。
-- **趣味活动**：
-  - 流量抽奖：抽取不同的流量包，搏一搏，单车变摩托。
-  - 积分商城：兑换套餐时长，优惠券，流量包，账户余额等。
-- [👉 官网地址](https://v52x.cc/#/register?code=jMvM)
+- **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！7x12H在线客服服务支持!
+- **超值活动**：端午节 活动
+  - 全场 85 折（优惠码：`eueu999`）。
+- [👉 官网地址](https://eueuwith.top/#/register?code=4RIVYN3d)
 
 ### 7）[跨越网络](https://kuayue2.com/register?code=Xj7iUU9C)
 - **核心优势**：全大陆中转，深港，京德专线，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
@@ -137,21 +141,17 @@
 - **新用户福利**：注册即享 **免费白嫖体验**，零风险试用高品质服务！
 - [👉 官网地址](https://kuayue2.com/register?code=Xj7iUU9C)
 
-### 8）[Eueu](https://eueuwith.top/#/register?code=4RIVYN3d)
-- **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
-- **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
-- **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
-- **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！7x12H在线客服服务支持!
-- [👉 官网地址](https://eueuwith.top/#/register?code=4RIVYN3d)
-
-### 9）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
+### 8）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
 - **核心优势**：高端深港 IEPL 专线，采用 SS 协议，4K 清晰不卡、8K 流畅，确保稳定的流媒体解锁体验.
 - **节点地区**：支持香港，台湾，美国，日本，新加坡，印度尼西亚，越南，菲律宾，韩国，泰国，印度，巴西，德国，英国，土耳其，法国，阿根廷，尼日利亚，澳大利亚等，让你的上网体验更加丰富多彩。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。
 - **超值套餐**：年付套餐最低仅 15.6 元/月，让高品质网络服务唾手可得！
+- **超值活动**：端午节 活动
+  - 全场 9 折（优惠码：`miao`）。
+  - 活动时间：即日起 - 2026/6/24  23:59
 - [👉 官网地址](https://miaona.co/#/register?code=VeKwsak1)
 
-### 10）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
+### 9）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 - **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
 - **节点地区**：香港，澳门，日本，台湾，新加坡，美国，韩国，英国，越南，印度尼西亚，马来西亚，缅甸，老挝，柬埔寨，泰国，菲律宾，印度，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
@@ -160,21 +160,21 @@
   - 年付优惠 10%（优惠码：`9999`）。
 - [👉 官网地址](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
 
-### 11）[烤肠](https://www.kaochang.org/#/register?code=4ql9ZTfR)
+### 10）[烤肠](https://www.kaochang.org/#/register?code=4ql9ZTfR)
 - **核心优势**：全大陆BGP三网中转优化大机场，最多可支持四台设备同时连接，4K秒开，工单秒回复，流媒体解锁支持。
 - **节点地区**：美国，新加坡，香港，日本，台湾，法国，德国，英国，印度，澳大利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超低价格**：一元即可测试，最低8元/月，享有100G大流量，全节点可用。
 - [👉 官网地址](https://www.kaochang.org/#/register?code=4ql9ZTfR)
 
-### 12）[魔戒](https://mojie.2gou.ren/register?aff=PvsYeQN4)
+### 11）[魔戒](https://mojie.2gou.ren/register?aff=PvsYeQN4)
 - **核心优势**：不限速、纯流量计费，无到期限制，多人共享无压力，真正做到无限制上网。
 - **节点地区**：香港，日本，台湾，美国，新加坡，加拿大，德国，英国，土耳其，澳大利亚，朝鲜，意大利，葡萄牙，俄罗斯，哈萨克斯坦，乌克兰，以色列，阿根廷，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超低价格**：价格低至 1 元，让你轻松尝鲜高品质网络体验！
 - [👉 官网地址](https://mojie.2gou.ren/register?aff=PvsYeQN4)
 
-### 13）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
+### 12）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
 - **核心优势**：传说中的一元机场，一元即可享受100G流量套餐， Netflix等主流流媒体解锁。使用最新的协议hysteria2，reality，更好的连接体验，更快的速度冲浪。
 - **节点地区**：包括：日本，新加坡，美国，德国，越南，泰国等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
