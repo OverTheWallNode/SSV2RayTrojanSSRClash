@@ -67,11 +67,6 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
-- **超值活动**：618 活动
-  - 季付 85 折（优惠码：`season85`）。
-  - 半年付 82 折（优惠码：`halfyear82`）。
-  - 年付 8 折（优惠码：`year80`）。
-  - 有效期：即日起—2026/06/24
 - [👉 官网地址](https://www.m78.at/#/register?code=TfURQ1ug)
 
 ---
@@ -85,9 +80,6 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
-- **超值活动**：端午节 活动
-  - 全场 8 折（优惠码：`pupu8`）。
-  - 有效期：即日起—2026-06-22 11:34
 - [👉 官网地址](https://liltpupuu.top/#/register?code=IoX959wk)
 
 ### 2）[智连云](https://zzzzz8.com/register?code=sWdm0JKC)
@@ -146,19 +138,16 @@
 - **节点地区**：支持香港，台湾，美国，日本，新加坡，印度尼西亚，越南，菲律宾，韩国，泰国，印度，巴西，德国，英国，土耳其，法国，阿根廷，尼日利亚，澳大利亚等，让你的上网体验更加丰富多彩。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。
 - **超值套餐**：年付套餐最低仅 15.6 元/月，让高品质网络服务唾手可得！
-- **超值活动**：端午节 活动
-  - 全场 9 折（优惠码：`miao`）。
-  - 活动时间：即日起 - 2026/6/24  23:59
 - [👉 官网地址](https://miaona.co/#/register?code=VeKwsak1)
 
-### 9）[随心飞](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
+### 9）[随心飞](https://sxf99.com/#/register?code=lZCDAw1W)
 - **核心优势**：采用优质中转广移沪移线路，SS 协议大机场，确保节点全 1 倍率、无限速体验，让你在国内也能享受国际级网络表现。
 - **节点地区**：香港，澳门，日本，台湾，新加坡，美国，韩国，英国，越南，印度尼西亚，马来西亚，缅甸，老挝，柬埔寨，泰国，菲律宾，印度，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 不限时“纯流量”套餐，无月付、季付或年付限制，用多少算多少，让你尽享无限畅游！
 - **超值活动**：
   - 年付优惠 10%（优惠码：`9999`）。
-- [👉 官网地址](https://www.suixinfei.co/auth/signup?referrer=lZCDAw1W)
+- [👉 官网地址](https://sxf99.com/#/register?code=lZCDAw1W)
 
 ### 10）[烤肠](https://www.kaochang.org/#/register?code=4ql9ZTfR)
 - **核心优势**：全大陆BGP三网中转优化大机场，最多可支持四台设备同时连接，4K秒开，工单秒回复，流媒体解锁支持。
