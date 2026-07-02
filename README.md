@@ -156,14 +156,24 @@
 - **超低价格**：一元即可测试，最低8元/月，享有100G大流量，全节点可用。
 - [👉 官网地址](https://www.kaochang.org/#/register?code=4ql9ZTfR)
 
-### 11）[魔戒](https://mojie.2gou.ren/register?aff=PvsYeQN4)
+### 11）[SKYLUMO](https://skylumo.com/#/register?code=AGlKkKX1)
+- **核心优势**：超高性价比,高速节点全球覆盖大机场，开业至今近10年运营，助力畅游全球。
+- **节点地区**：香港，台湾，日本，新加坡，美国，德国，西班牙，印度尼西亚，马来西亚，荷兰，韩国，印度，智利，瑞士，加拿大，以色列，立陶宛，澳大利亚，瑞典，塞尔维亚，俄罗斯，泰国，罗马尼亚，波兰，加纳，南非，法国，卡萨布兰卡，挪威，意大利，芬兰，沙特阿拉伯，迪拜，阿塞拜疆等。
+- **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
+- **超低价格**：年付价格低至 9.9 元，让你轻松尝鲜高品质网络体验！
+- - **超值活动**：限时半价 活动
+  - 经典老套餐半价优惠（优惠码：`lN0cKN1L`）。
+  - 赠送谷歌gemini AI pro 年费。
+- [👉 官网地址](https://skylumo.com/#/register?code=AGlKkKX1)
+
+### 12）[魔戒](https://mojie.2gou.ren/register?aff=PvsYeQN4)
 - **核心优势**：不限速、纯流量计费，无到期限制，多人共享无压力，真正做到无限制上网。
 - **节点地区**：香港，日本，台湾，美国，新加坡，加拿大，德国，英国，土耳其，澳大利亚，朝鲜，意大利，葡萄牙，俄罗斯，哈萨克斯坦，乌克兰，以色列，阿根廷，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超低价格**：价格低至 1 元，让你轻松尝鲜高品质网络体验！
 - [👉 官网地址](https://mojie.2gou.ren/register?aff=PvsYeQN4)
 
-### 12）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
+### 13）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
 - **核心优势**：传说中的一元机场，一元即可享受100G流量套餐， Netflix等主流流媒体解锁。使用最新的协议hysteria2，reality，更好的连接体验，更快的速度冲浪。
 - **节点地区**：包括：日本，新加坡，美国，德国，越南，泰国等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
