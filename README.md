@@ -41,9 +41,6 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- **超值活动**：618 活动
-  - 全场 75 折（优惠码：`duck-75`）。
-  - 有效期：2026年06月17日至2026年07月12日
 - [👉 官网地址](https://vuser.niceduck.io/register?code=2o3T6rG1)
 
 ### 5）[M78星云](https://www.m78.at/#/register?code=TfURQ1ug)
@@ -125,13 +122,12 @@
   - 全场 85 折（优惠码：`eueu999`）。
 - [👉 官网地址](https://eueuwith.top/#/register?code=4RIVYN3d)
 
-### 7）[跨越网络](https://kuayue2.com/register?code=Xj7iUU9C)
-- **核心优势**：全大陆中转，深港，京德专线，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验.
-- **节点地区**：香港，澳门，韩国，新加坡，日本，台湾，美国，越南，菲律宾，泰国，马来西亚，印度尼西亚等。
-- **流媒体解锁**：解锁Netflix , Hulu , HBO , Disney+ , DAZN 等主流平台流媒体。 解锁 ChatGPT。
-- **超值套餐**：有“纯流量”套餐。满足各类用户需求。
-- **新用户福利**：注册即享 **免费白嫖体验**，零风险试用高品质服务！
-- [👉 官网地址](https://kuayue2.com/register?code=Xj7iUU9C)
+### 7）[烤肠](https://www.kaochang.org/#/register?code=4ql9ZTfR)
+- **核心优势**：全大陆BGP三网中转优化大机场，最多可支持四台设备同时连接，4K秒开，工单秒回复，流媒体解锁支持。
+- **节点地区**：美国，新加坡，香港，日本，台湾，法国，德国，英国，印度，澳大利亚等。
+- **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
+- **超低价格**：一元即可测试，最低8元/月，享有100G大流量，全节点可用。
+- [👉 官网地址](https://www.kaochang.org/#/register?code=4ql9ZTfR)
 
 ### 8）[Miaona](https://miaona.co/#/register?code=VeKwsak1)
 - **核心优势**：高端深港 IEPL 专线，采用 SS 协议，4K 清晰不卡、8K 流畅，确保稳定的流媒体解锁体验.
@@ -149,14 +145,7 @@
   - 年付优惠 10%（优惠码：`9999`）。
 - [👉 官网地址](https://sxf99.com/#/register?code=lZCDAw1W)
 
-### 10）[烤肠](https://www.kaochang.org/#/register?code=4ql9ZTfR)
-- **核心优势**：全大陆BGP三网中转优化大机场，最多可支持四台设备同时连接，4K秒开，工单秒回复，流媒体解锁支持。
-- **节点地区**：美国，新加坡，香港，日本，台湾，法国，德国，英国，印度，澳大利亚等。
-- **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
-- **超低价格**：一元即可测试，最低8元/月，享有100G大流量，全节点可用。
-- [👉 官网地址](https://www.kaochang.org/#/register?code=4ql9ZTfR)
-
-### 11）[SKYLUMO](https://skylumo.com/#/register?code=AGlKkKX1)
+### 10）[SKYLUMO](https://skylumo.com/#/register?code=AGlKkKX1)
 - **核心优势**：超高性价比,高速节点全球覆盖大机场，开业至今近10年运营，助力畅游全球。
 - **节点地区**：香港，台湾，日本，新加坡，美国，德国，西班牙，印度尼西亚，马来西亚，荷兰，韩国，印度，智利，瑞士，加拿大，以色列，立陶宛，澳大利亚，瑞典，塞尔维亚，俄罗斯，泰国，罗马尼亚，波兰，加纳，南非，法国，卡萨布兰卡，挪威，意大利，芬兰，沙特阿拉伯，迪拜，阿塞拜疆等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
@@ -166,14 +155,14 @@
   - 赠送谷歌gemini AI pro 年费。
 - [👉 官网地址](https://skylumo.com/#/register?code=AGlKkKX1)
 
-### 12）[魔戒](https://mojie.2gou.ren/register?aff=PvsYeQN4)
+### 11）[魔戒](https://mojie.2gou.ren/register?aff=PvsYeQN4)
 - **核心优势**：不限速、纯流量计费，无到期限制，多人共享无压力，真正做到无限制上网。
 - **节点地区**：香港，日本，台湾，美国，新加坡，加拿大，德国，英国，土耳其，澳大利亚，朝鲜，意大利，葡萄牙，俄罗斯，哈萨克斯坦，乌克兰，以色列，阿根廷，尼日利亚等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超低价格**：价格低至 1 元，让你轻松尝鲜高品质网络体验！
 - [👉 官网地址](https://mojie.2gou.ren/register?aff=PvsYeQN4)
 
-### 13）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
+### 12）[FSCloud](https://web.fscloud.app/#/register?code=mAMmbdAY)
 - **核心优势**：传说中的一元机场，一元即可享受100G流量套餐， Netflix等主流流媒体解锁。使用最新的协议hysteria2，reality，更好的连接体验，更快的速度冲浪。
 - **节点地区**：包括：日本，新加坡，美国，德国，越南，泰国等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
@@ -190,32 +179,32 @@
 - **[chatgpt会员充值](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)**  
   提供 GPT Plus/Pro 账号充值与使用服务，正规安全、下单便捷、30 天质保承诺，适合学习办公与创作使用！
   
-  👉 [https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)
+  👉 [网站地址](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)
 
 - **[爱壹帆](https://www.iyf.tv/)**  
   海量高清视频平台，涵盖电视剧、电影、动漫、综艺、纪录片及新闻，实时更新，让海外观影变得轻松有趣！
   
-  👉 [https://www.iyf.tv/](https://www.iyf.tv/)
+  👉 [网站地址](https://www.iyf.tv/)
 
 - **[临时邮箱收验证码](https://temp-mail.org)**  
   临时邮箱接收验证码，保护隐私！
   
-  👉 [https://temp-mail.org](https://temp-mail.org)
+  👉 [网站地址](https://temp-mail.org)
 
 - **[听猫呼噜声](https://purrli.com/)**  
   专门听猫咪呼噜声，沉浸式体验。
   
-  👉 [https://purrli.com/](https://purrli.com/)
+  👉 [网站地址](https://purrli.com/)
  
 - **[下载 YouTube 视频和字幕](https://addyoutube.com/)**  
   下载YouTube视频，离线观看！
   
-  👉 [https://addyoutube.com/](https://addyoutube.com/)
+  👉 [网站地址](https://addyoutube.com/)
 
 - **[小霸王游戏在线玩](https://www.yikm.net/)**  
   小霸王经典游戏，勾起童年回忆！
   
-  👉 [https://www.yikm.net/](https://www.yikm.net/)
+  👉 [网站地址](https://www.yikm.net/)
 
 ---
 
