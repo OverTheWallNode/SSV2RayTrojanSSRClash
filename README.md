@@ -82,6 +82,9 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
+- **超值活动**：
+  - 暑期全场 9 折优惠（优惠码：`pupu9`）。
+  - 有效期：即日起—2026/08/31
 - [👉 官网地址](https://liltpupuu.top/#/register?code=IoX959wk)
 
 ### 2）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
@@ -170,7 +173,9 @@
 - **[chatgpt会员充值](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)**  
   提供 GPT Plus/Pro 账号充值与使用服务，正规安全、下单便捷、30 天质保承诺，适合学习办公与创作使用！
   
-  👉 [网站地址](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)
+  👉 [网站地址1](https://www.5xgpt.com/?ref=FXMRC5TDRH9PAK4)
+  </br></br>
+  👉 [网站地址2](https://www.gptpro.xin/?refer=Y6use8uF&channelCode=gptpro)
 
 - **[爱壹帆](https://www.iyf.tv/)**  
   海量高清视频平台，涵盖电视剧、电影、动漫、综艺、纪录片及新闻，实时更新，让海外观影变得轻松有趣！
