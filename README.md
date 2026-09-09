@@ -34,6 +34,11 @@
 - **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，菲律宾，越南，印度尼西亚，德国，英国，法国，土耳其，巴西，阿根廷等。
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯等主流流媒体。
 - **超值套餐**：节点全部1倍率。支持ChatGPT、Claude等AI tools
+- **超值活动**：金秋回馈活动
+  - 月付、季度及半年套餐 85 折优惠 （优惠码：`202685`）。
+  - 年付、两年及三年套餐 8 折优惠 （优惠码：`202680`）。
+  - 活动时间：即日起至 2026年9月30日23:59
+  - 商城内三年套餐已按原价6折销售，本次活动期间还可继续使用8折优惠码，叠加后相当于最低4.8折，更适合有长期使用需求的用户。
 - [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
 ### 4）[NiceDuck](https://vuser.niceduck.io/register?code=2o3T6rG1)
@@ -64,6 +69,10 @@
 - **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
 - **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
+- **超值活动**：秋季加速活动
+  - 所有套餐 8 折优惠 （优惠码：`fast202609`）。
+  - 活动时间：即日起至 2026年9月30日23:59
+  - 商城内三年套餐已按原价6折销售，本次活动期间还可继续使用8折优惠码，叠加后相当于最低4.8折，更适合有长期使用需求的用户。
 - [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
 ---
@@ -84,6 +93,10 @@
 - **节点地区**：香港，台湾，日本，新加坡，美国，英国，马来西亚，阿根廷，土耳其等。
 - **流媒体全解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll、Abema、DMM等主流流媒体。
 - **新用户福利**：注册即享 **3 天免费体验**（优惠码：`free`）。
+- **超值活动**：秋季加速活动
+  - 所有套餐 8 折优惠 （优惠码：`cat2026`）。
+  - 活动时间：即日起至 2026年9月30日23:59
+  - 商城内三年套餐已按原价6折销售，本次活动期间还可继续使用8折优惠码，叠加后相当于最低4.8折，更适合有长期使用需求的用户。
 - [👉 官网地址](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 
 ### 3）[Snaillink](https://snaillink.net/register?code=EjntInlR)
