@@ -191,22 +191,22 @@
   👉 [网站地址](https://www.yikm.net/)
 
 - **[一诺社工库](https://t.me/xiaohaige_wangshubot?start=gnpNw9HLkXKN4LO)**  
- 查人，查全家，开盒！
+ 一诺社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
   
   👉 [网站地址](https://t.me/xiaohaige_wangshubot?start=gnpNw9HLkXKN4LO)
 
 - **[情报部社工库](https://t.me/qingbaobu?start=NzU5NzkyNzQ2Nw==)**  
- 查人，查全家，开盒！
+情报部社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
   
   👉 [网站地址](https://t.me/qingbaobu?start=NzU5NzkyNzQ2Nw==)
 
 - **[天眼社工库](https://t.me/tianyanSGKbot?start=NzU5NzkyNzQ2Nw==)**  
- 查人，查全家，开盒！
+天眼社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
   
   👉 [网站地址](https://t.me/tianyanSGKbot?start=NzU5NzkyNzQ2Nw==)
 
 - **[查档王社工库](https://t.me/cd777?start=NzU5NzkyNzQ2Nw==)**  
- 查人，查全家，开盒！
+ 查档王社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
   
   👉 [网站地址](https://t.me/cd777?start=NzU5NzkyNzQ2Nw==)
   
