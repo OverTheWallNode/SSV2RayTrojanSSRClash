@@ -52,11 +52,6 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
-- **超值活动**：2026国庆优惠活动
-  - 全场 85 折优惠 （优惠码：`season85`）。
-  - 全场 82 折优惠 （优惠码：`halfyear82`）。
-  - 全场 8 折优惠 （优惠码：`year80`）。
-  - 活动时间：即日起—2026/10/12
 - [👉 官网地址](https://invite.m78star.cn/#/register?code=TfURQ1ug)
 
 ### 6）[智连云](https://zzzzz8.com/register?code=sWdm0JKC)
@@ -195,6 +190,26 @@
   
   👉 [网站地址](https://www.yikm.net/)
 
+- **[一诺社工库](https://t.me/xiaohaige_wangshubot?start=gnpNw9HLkXKN4LO)**  
+ 查人，查全家，开盒！
+  
+  👉 [网站地址](https://t.me/xiaohaige_wangshubot?start=gnpNw9HLkXKN4LO)
+
+- **[情报部社工库](https://t.me/qingbaobu?start=NzU5NzkyNzQ2Nw==)**  
+ 查人，查全家，开盒！
+  
+  👉 [网站地址](https://t.me/qingbaobu?start=NzU5NzkyNzQ2Nw==)
+
+- **[天眼社工库](https://t.me/tianyanSGKbot?start=NzU5NzkyNzQ2Nw==)**  
+ 查人，查全家，开盒！
+  
+  👉 [网站地址](https://t.me/tianyanSGKbot?start=NzU5NzkyNzQ2Nw==)
+
+- **[查档王社工库](https://t.me/cd777?start=NzU5NzkyNzQ2Nw==)**  
+ 查人，查全家，开盒！
+  
+  👉 [网站地址](https://t.me/cd777?start=NzU5NzkyNzQ2Nw==)
+  
 ---
 
 😊 **最后**：  
