@@ -41,9 +41,6 @@
 - **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
 - **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
 - **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- **超值活动**：2026国庆优惠活动
-  - 全场 75 折优惠 （优惠码：`duck-75`）。
-  - 活动时间：2026年10月01日至2026年10月31日
 - [👉 官网地址](https://vuser.niceduck.io/register?code=2o3T6rG1)
 
 ### 5）[M78星云](https://invite.m78star.cn/#/register?code=TfURQ1ug)
@@ -52,6 +49,11 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **新用户福利**：新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
+- **超值活动**：双十一优惠活动
+  - 季付 85 折优惠 （优惠码：`season85`）。
+  - 半年付 82 折优惠 （优惠码：`halfyear82`）。
+  - 年付 8 折优惠 （优惠码：`year80`）。
+  - 有效期：即日起-2026/11/16
 - [👉 官网地址](https://invite.m78star.cn/#/register?code=TfURQ1ug)
 
 ### 6）[智连云](https://zzzzz8.com/register?code=sWdm0JKC)
