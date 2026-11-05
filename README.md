@@ -36,14 +36,7 @@
 - **超值套餐**：节点全部1倍率。支持ChatGPT、Claude等AI tools
 - [👉 官网地址](https://baughlyonzh53.fcvipaff.cc/register?aff=WpbutoWF)
 
-### 4）[NiceDuck](https://vuser.niceduck.io/register?code=2o3T6rG1)
-- **核心优势**：多入口隧道中转 SS 线路，国内直连加速，高 SLA 保障，让你在任何网络环境下都能畅享全球高速上网。
-- **节点地区**：香港，澳门，台湾，日本，新加坡，美国，韩国等。
-- **流媒体解锁**：支持全节点流媒体（包括 ChatGPT、Netflix、Disney+/Dazn、动画疯、Abema、DMM 等），呈现影院级超清观影体验.
-- **超值套餐**：流量包套餐低至每月 6.66 元，性价比超高！同时赠送硬盘服 Emby，配合国内直连线路和 0.01 倍率专属节点，4K 影片秒开。
-- [👉 官网地址](https://vuser.niceduck.io/register?code=2o3T6rG1)
-
-### 5）[M78星云](https://invite.m78star.cn/#/register?code=TfURQ1ug)
+### 4）[M78星云](https://invite.m78star.cn/#/register?code=TfURQ1ug)
 - **核心优势**：G 口负载，IPLC 专线高端 SS，带来 4K 流畅、8K 不卡的极致体验。不限速、不限设备，随心畅享。
 - **节点地区**：香港，澳门，台湾，日本，美国，新加坡，韩国，马来西亚，泰国，越南，印度，菲律宾，阿根廷，土耳其，俄罗斯，乌克兰，印度尼西亚，德国，法国，英国，埃及，澳大利亚，巴西，迪拜，荷兰，丹麦，尼日利亚，南极等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime等主流流媒体。包括ChatGPT，让全球资源触手可及！
@@ -56,20 +49,19 @@
   - 有效期：即日起-2026/11/16
 - [👉 官网地址](https://invite.m78star.cn/#/register?code=TfURQ1ug)
 
-### 6）[智连云](https://zzzzz8.com/register?code=sWdm0JKC)
+### 5）[智连云](https://zzzzz8.com/register?code=sWdm0JKC)
 - **核心优势**：全大陆中转，深港，京德专线，低延时高速稳定，4K 视频秒载，确保无卡顿、流畅的观影体验。
 - **节点地区**：香港，澳门，韩国，新加坡，日本，台湾，美国，越南，菲律宾，泰国，马来西亚，印度尼西亚，迪拜，印度，澳大利亚，加拿大，英国，墨西哥，法国，以色列，西班牙，德国，土耳其，荷兰，乌克兰，意大利，埃及，哈萨克斯坦等。
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu等主流流媒体，轻松解锁全球影视内容。 解锁 ChatGPT。
 - **超值套餐**：有“纯流量”套餐。满足各类用户需求。
 - [👉 官网地址](https://zzzzz8.com/register?code=sWdm0JKC)
 
-### 7）[FastLink](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
-- **核心优势**：Anycast 全球加速技术，BGP动态专线，节点速率高达 2Gbps，无论 4K 秒开还是 8K 超清视频，都能轻松应对！
-- **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，印度，美国，加拿大，英国，德国，法国，俄罗斯，阿根廷，巴西，土耳其，澳大利亚等。
-- **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
-- **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
-- **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
-- [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
+### 6）[Liltpupu](https://liltpupuu.top/#/register?code=IoX959wk)
+- **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
+- **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
+- **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
+- **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
+- [👉 官网地址](https://liltpupuu.top/#/register?code=IoX959wk)
 
 ---
 
@@ -77,12 +69,13 @@
 
 **中级机场区** 适合日常办公、影音娱乐与流媒体观影的广大用户。价格亲民且稳定性出色，即使在敏感时期也能保障基本上网体验，让你随时随地畅享网络自由！
 
-### 1）[Liltpupu](https://liltpupuu.top/#/register?code=IoX959wk)
-- **核心优势**：全大陆优质中转线路，不限速 SS 机场，确保 4K 视频秒开、8K 超清不卡顿.
-- **节点地区**：香港，台湾，日本，新加坡，美国，英国，瑞士，越南，意大利，韩国，西班牙，印度，德国，马来西亚，巴西，加拿大，俄罗斯，乌克兰，泰国，土耳其等。
-- **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
-- **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
-- [👉 官网地址](https://liltpupuu.top/#/register?code=IoX959wk)
+### 1）[FastLink](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
+- **核心优势**：Anycast 全球加速技术，BGP动态专线，节点速率高达 2Gbps，无论 4K 秒开还是 8K 超清视频，都能轻松应对！
+- **节点地区**：香港，日本，韩国，台湾，新加坡，泰国，马来西亚，印度，美国，加拿大，英国，德国，法国，俄罗斯，阿根廷，巴西，土耳其，澳大利亚等。
+- **流媒体解锁**：支持 Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN、动画疯、Crunchyroll等主流流媒体。
+- **超值套餐**：提供0.1倍率节点，使用10G流量套餐只计费1G，适合重度人群。
+- **新用户福利**：注册即享 **3 天免费体验**（优惠码：`599_f3cz8bzm`），感受极速上网的震撼体验！
+- [👉 官网地址](https://flafflnk01.flaff9.cc/auth/register?code=je8N)
 
 ### 2）[SpeedCat](https://webinv02.sc-aff.cc/auth/register?code=7TiK)
 - **核心优势**：速度稳如闪电，高端全专线 IPLC，无倍率套路，打造原生节点大机场，带来极致网络体验！
